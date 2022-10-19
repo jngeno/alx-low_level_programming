@@ -4,7 +4,7 @@
  * @t: The interger to be computed
  * Return: the absolute value
  */
-int_abs(int t)
+int _abs(int t)
 {
 	if (t >= 0)
 		return (t);
