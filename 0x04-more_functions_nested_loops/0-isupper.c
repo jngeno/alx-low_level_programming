@@ -1,4 +1,5 @@
-# include "main.h2"
+# include "main.h
+"
 
 /**
  * _isupper - checks if a character is uppercase
